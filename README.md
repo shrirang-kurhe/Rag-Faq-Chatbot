@@ -45,6 +45,13 @@ The purpose of this chatbot is to:
 ## 📂 Files in the Project
 
 - `app.py` — Main Streamlit app
-- `faqs.txt` — File containing all frequently asked questions and answers
+- `README.md` 
+- `faqs.txt` — *(Not included)* You must add this manually with your FAQs
+
+## 📌 Future Improvements
+
+- Add UI enhancements  
+- Support PDF and Docx file ingestion  
+- Enable feedback/rating system for chatbot answers 
 
 ---
